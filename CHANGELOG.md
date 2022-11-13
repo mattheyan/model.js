@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## [Unreleased]
+### Added
+- build ES module output
+### Fixed
+- remove duplicate exports of 'initilization-context'
+- add 'identifier' to property options
 ## [0.8.37] - 2022-11-11
 ### Fixed
 - raise property change when default calculation rule runs for list
